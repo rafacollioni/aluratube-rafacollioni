@@ -1,0 +1,62 @@
+{
+    "name":"Rafa Collioni",
+    "job": "Músico e Apaixonado por Automobilismo",
+    "bg": "https://wallpapercave.com/wp/wp10008518.jpg",
+    "github": "rafacollioni",
+    "playlists": {
+        "Fórmula 1": [
+            {
+                "title": "Drivers' Post-Race Reaction | 2022 Mexico City Grand Prix",
+                "url": "https://www.youtube.com/watch?v=4R4if9AnNr8",
+                "thumb": "https://img.youtube.com/vi/4R4if9AnNr8/hqdefault.jpg"
+            }
+            ,{
+                "title": "Ricciardo Making Moves, and the Top 10 Onboards | 2022 Mexico City Grand Prix | Emirates",
+                "url": "https://www.youtube.com/watch?v=imqOz36csMw",
+                "thumb": "https://img.youtube.com/vi/imqOz36csMw/hqdefault.jpg"
+            }
+            ,{
+                "title": "RADIO REWIND! 2010 Abu Dhabi Grand Prix",
+                "url": "https://www.youtube.com/watch?v=OscqgBj1HCw",
+                "thumb": "https://img.youtube.com/vi/OscqgBj1HCw/hqdefault.jpg"
+            }
+            ,{
+                "title": "Top 10 Unusual Moments in F1",
+                "url": "https://www.youtube.com/watch?v=VdmjjTNW-8Y",
+                "thumb": "https://img.youtube.com/vi/VdmjjTNW-8Y/hqdefault.jpg"
+            }
+            ,{
+                "title": "RADIO REWIND! 2010 Australian Grand Prix",
+                "url": "https://www.youtube.com/watch?v=tim0aLFedZ8",
+                "thumb": "https://img.youtube.com/vi/tim0aLFedZ8/hqdefault.jpg"
+            }
+            
+        ],
+        "SimRacing": [{
+            "title": "The Hardest Gran Turismo 7 Challenge Yet",
+            "url": "https://www.youtube.com/watch?v=jBNCOo1pDs4",
+            "thumb": "https://img.youtube.com/vi/jBNCOo1pDs4/hqdefault.jpg"
+            }
+            ,{
+                "title": "This Is Probably The Coolest Mod In Assetto Corsa",
+                "url": "https://www.youtube.com/watch?v=fr0RLs9jLBw&",
+                "thumb": "https://img.youtube.com/vi/fr0RLs9jLBw/hqdefault.jpg"
+            }
+            ,{
+                "title": "I Made The Ultimate Sim Racing Tier List",
+                "url": "https://www.youtube.com/watch?v=Vp1wgPbYk3w&t=893s",
+                "thumb": "https://img.youtube.com/vi/Vp1wgPbYk3w/hqdefault.jpg"
+            }
+            ,{
+                "title": "I Got To Try Out A £1,000,000 Racing Simulator",
+                "url": "https://www.youtube.com/watch?v=PUNERYwlKhQ",
+                "thumb": "https://img.youtube.com/vi/PUNERYwlKhQ/hqdefault.jpg"
+            }
+            ,{
+                "title": "TT Isle Of Man - Trying To Survive A Full Lap On A 1200cc Superbike",
+                "url": "https://www.youtube.com/watch?v=coV6IvMHOLg",
+                "thumb": "https://img.youtube.com/vi/coV6IvMHOLg/hqdefault.jpg"
+            }
+        ]
+    }
+}
